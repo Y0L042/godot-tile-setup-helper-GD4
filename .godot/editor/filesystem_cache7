@@ -1,0 +1,28 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1667305558
+default_env.tres::Environment::-1::1667305177::0::1::::<><>::
+icon.png::CompressedTexture2D::7775631125925037068::1667305426::1667305451::1::::<><>::
+icon.svg::CompressedTexture2D::2630690150006639912::1665314137::1667305369::1::::<><>::
+README.md::TextFile::-1::1667305108::0::1::::<><>::
+::res://addons/::1667305451
+::res://addons/tile_setup_helper/::1667305429
+example_2x2.png::CompressedTexture2D::3630124654695337000::1667305108::1667305198::1::::<><>::
+example_2x2_half_size.png::CompressedTexture2D::6108786145083745938::1667305108::1667305198::1::::<><>::
+example_3x3min.png::CompressedTexture2D::4395546996419761573::1667305108::1667305199::1::::<><>::
+example_3x3min_alt.png::CompressedTexture2D::7918313325069846220::1667305108::1667305199::1::::<><>::
+helper.gd::GDScript::-1::1667305313::0::1::::<><>::
+icon.png::CompressedTexture2D::8885869096628201902::1667305108::1667305199::1::::<><>::
+plugin.cfg::TextFile::-1::1667305108::0::1::::<><>::
+plugin.gd::GDScript::-1::1667305313::0::1::::<>EditorPlugin<>::
+::res://Assets/::1667305584
+autotile_template_3x3_minimal.png::CompressedTexture2D::3093228994807296862::1667219452::1667305587::1::::<><>::
+autotile_template_3x3_minimal_topdown_floor - Copy - Resized.png::CompressedTexture2D::2409053868243014238::1667203189::1667305587::1::::<><>::
+autotile_template_3x3_minimal_topdown_walls - Copy - Rescaled- No Grid.png::CompressedTexture2D::5040203083139178329::1667213439::1667305587::1::::<><>::
+autotile_template_3x3_minimal_topdown_walls - Copy - Rescaled.png::CompressedTexture2D::2966672490696041612::1667202521::1667305587::1::::<><>::
+BWtiles.png::CompressedTexture2D::8331498508941576692::1666675810::1667305587::1::::<><>::
+light.png::CompressedTexture2D::2033654168653385872::1658158442::1667305587::1::::<><>::
+terrain.png::CompressedTexture2D::1238110251957447040::1395473956::1667305588::1::::<><>::
+topdown_walls_deserted_isles.png::CompressedTexture2D::6199587623405594970::1667217274::1667305588::1::::<><>::
+wasteland1_autotile_template_3x3_minimal_topdown_walls - Copy - Rescaled- No Grid.png::CompressedTexture2D::703775252418064236::1667292501::1667305587::1::::<><>::
+::res://Test Scene/::1667305487
+tilemap_test.tscn::PackedScene::3975164711658993143::1667305487::0::1::::<><>::

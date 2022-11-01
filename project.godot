@@ -6,16 +6,18 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=4
+config_version=5
 
 [application]
 
 config/name="Tile Setup Helper"
+run/main_scene="res://Test Scene/tilemap_test.tscn"
+config/features=PackedStringArray("4.0")
 config/icon="res://icon.png"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/tile_setup_helper/plugin.cfg" )
+enabled=PackedStringArray("res://addons/tile_setup_helper/plugin.cfg")
 
 [gui]
 
